@@ -1,0 +1,14 @@
+*.class
+*.log
+.DS_STORE
+target/
+project/project/
+project/target/
+project/.bloop/
+logs/
+.bsp/
+.metals
+.vscode
+.bloop
+.idea
+postgres-data
